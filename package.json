@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.13",
+    "bn.js": "^5.2.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "eth-gas-reporter": "^0.2.22",
+    "web3": "^1.6.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
